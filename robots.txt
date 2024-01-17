@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodypwasipit.github.io/sitemap.xml
